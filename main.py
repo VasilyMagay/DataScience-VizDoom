@@ -20,9 +20,6 @@ import cv2
 # чтобы не переполнять память)
 from collections import deque
 
-# Модуль pyplot из библиотеки Matplotlib
-# import matplotlib.pyplot as plt
-
 # Функция для создания и загрузки модели из TensorFlow
 from tensorflow.keras.models import load_model, Model, Sequential
 
