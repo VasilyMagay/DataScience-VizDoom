@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+/content/rl.zip
+tf_test.py
+/content/ViZDoom/
+.idea/

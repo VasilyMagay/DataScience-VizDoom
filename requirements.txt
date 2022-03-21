@@ -1,0 +1,6 @@
+numpy
+tf-nightly
+imageio
+moviepy
+opencv-python
+vizdoom==1.1.11
